@@ -1,4 +1,4 @@
-# To-Do List
+# Bit-Decimal-Bit Trainer
 
 A command-line Bit-Decimal-Bit application written in Rust as part of my rust learning journey.
 
@@ -41,13 +41,11 @@ Reading the remainders from bottom to top:
 
 1101
 
-## Technologies
-
-- Rust
-
 ## Running
 
 ```bash
+git clone https://github.com/yaeyany/bit_calc_trainer.git
+cd bit_calc_trainer
 cargo run
 ```
 
